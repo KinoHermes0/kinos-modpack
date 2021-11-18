@@ -7,10 +7,6 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 None yet, come back once I get things together for v0.1
 
-<details>
-  <summary>Alternative downloads</summary>
-
-_These downloads do not yet support the modpack or the mods :(_
 
 
 </details>
