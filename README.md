@@ -68,6 +68,9 @@ List of mods as of 2.4.0 are below.
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) by shedaniel - makes some mods work
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) by modmuss50 - makes some mods work
 
+### Unique Mods to Kino's Modpack
+* 
+
 ¹ The mod is not from Curseforge, but the [license and Curseforge allow usage in modpacks](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Help
