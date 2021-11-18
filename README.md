@@ -1,5 +1,5 @@
 # Kino's Modpack
-A simple modpack for people who are used to having Forge and OptiFine and are curious to see what equivalents Fabric has to offer. You could consider this modpack a "starting point" to optimize your game before adding more functional mods or you could just play this as if it was vanilla - the choice is yours. 
+A simple modpack for people who are used to having Forge and OptiFine and want a few extra features that you won't find in vanilla. It's a slightly more feature rich version of Fabulously Optimized.
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
 
@@ -35,18 +35,7 @@ Not sure which edition is right for you? Check this handy table!
 | Supports the modpack and mods | ✅ | ✅ | ❌ | ❌ | ✅ |
 
 ## Reviews
-
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
-
-🌐 [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc) | [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0)
-
-More notable videos:
-* [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
-* [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
-* [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
-* [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
-* [Playing on a phone (Pojav Launcher)](https://www.youtube.com/watch?v=mP5AoxqCKos) by MeCaft
-* [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
+N/A (Yet)
 
 ## Included mods
 
