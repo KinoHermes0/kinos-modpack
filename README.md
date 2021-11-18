@@ -69,7 +69,9 @@ List of mods as of 2.4.0 are below.
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) by modmuss50 - makes some mods work
 
 ### Unique Mods to Kino's Modpack
-* 
+* [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) by shedaniel - item view mod for fabric
+* [Xaero's Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) by xaero96 - mini map mod
+* [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) by xaero96 - world map mod, compainion to Xaero's Mini Map
 
 ¹ The mod is not from Curseforge, but the [license and Curseforge allow usage in modpacks](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
