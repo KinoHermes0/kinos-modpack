@@ -7,23 +7,6 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 None yet, come back once I get things together for v0.1
 
-
-
-</details>
-  
-
-
-Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
-|---|---|---|---|---|---|
-| Pack download | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized#downloads) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla) |
-| Easy install | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#curseforge-launcher) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc-auto-update) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) |
-| Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ |
-| Add mods with few clicks | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#curseforge-launcher-minecraft-117xfo-2xx) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#minecraft-launcher-vanilla) |
-| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ |
-| Supports the modpack and mods | ✅ | ✅ | ❌ | ❌ | ✅ |
-
 ## Reviews
 
 N/A (Yet)
